@@ -227,3 +227,10 @@
   padding-bottom: 50px;
 
 }
+
+.footer-content {
+  width: 100%;
+  padding: 80px 8%;
+  background-color: #f8f8f8;
+  text-align: center;
+}
