@@ -61,7 +61,7 @@
   align-items: center;
   justify-content: space-between;
 
-  background-image: url("images/Untitled design (1).png");
+  background-image: url("images/₹ (1).png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -390,7 +390,7 @@
   font-size: 0.9rem;
 }
 
-/* Mobile Navbar */
+
 @media (max-width: 768px) {
   .hamburger {
     display: flex;
@@ -402,6 +402,23 @@
 
   .mobile-only {
     display: block;
+  }
+
+  .hero{
+    width: 100%;
+  }
+
+  .hero-content{
+    max-width: 100%;
+  }
+
+  .hero-content h1{
+    font-size: 40px;
+    line-height: 1.2;
+  }
+
+  .title-sec3{
+    font-size: 30px;
   }
 
 
